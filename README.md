@@ -2,6 +2,8 @@
 
 Dataset: [Daily Financial News for 6000+ Stocks](https://www.kaggle.com/datasets/miguelaenlle/massive-stock-news-analysis-db-for-nlpbacktests)
 
+Inferenced Model: https://huggingface.co/ProsusAI/finbert
+Libraries & Tools: Pytorch, Weights and Biases (wandb), pandas
 <!--
 setup: https://www.youtube.com/watch?v=r7Am-ZGMef8
 - pytorch = 11.7
