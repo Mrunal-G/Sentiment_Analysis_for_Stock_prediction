@@ -9,3 +9,6 @@ setup: https://www.youtube.com/watch?v=r7Am-ZGMef8
 - [Download cuDNN v8.8.1 (March 8th, 2023), for CUDA 11.x](https://developer.nvidia.com/rdp/cudnn-archive)
 
 -->
+
+
+![image](https://github.com/Mrunal-G/Sentiment_Analysis_for_Stock_prediction/assets/64394705/c9757eae-87b1-4e82-b460-887de1ef90cd)
